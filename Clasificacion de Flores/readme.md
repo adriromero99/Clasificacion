@@ -1,4 +1,4 @@
-# Clasificacion de flores con LDA y QDA
+# Clasificación de flores con LDA y QDA
 
 El objetivo del presente trabajo es estudiar y comparar las clasificaciones que se obtienen al
 utilizar **Linear Discriminant Analyisis (LDA) y Quadratic Discriminant Analysis (QDA)**. Para
