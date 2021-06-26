@@ -16,10 +16,31 @@ Librerías utilizadas:
 * Seaborn
 * Sci-kit learn
 
+**Set de datos**
+![img1](images/dataset1.png)
+
+**Análisis**
+![img1](images/graph1.png)
+
 ## Clasificación de Flores
 
-Como parte del curso de Posgrado Aprendizaje Estadístico, desarrollé clasificadores de LDA y QDA con un riguroso análisis estadístico fundamentado en el informe presente en el repositorio. Se utilizó el famoso dataset IRIS. El trabajo se desarrolló en R.
+Como parte del curso de Posgrado Aprendizaje Estadístico, desarrollé clasificadores de LDA y QDA con un riguroso análisis estadístico fundamentado en el informe presente en el repositorio. Se utilizó el famoso dataset IRIS. El trabajo se desarrolló en R. 
+
+Las métricas son obtenidas utilizando cross validation. 
+
+A lo largo del trabajo busqué las fronteras de decisión lineal y cuadrática que generan los clasificadores.
+
+**Frontera lineal**
+![img1](images/graph2.png)
 
 ## Clasificación de Diabetes
 
 Como parte del curso de Posgrado Aprendizaje Estadístico, implementé varios clasificadores para hallar la mejor forma de clasificar a personas en diabéticas o no diabéticas a partir de métricas médicas como el índice de masa corporal, edad y glucosa en sangre. En particular desarrollé un ensamble: Bagging. Este trabajo se desarrolló tanto en R como en Python utilizando jupyter notebooks.
+
+En particular se compara el espacio de decisión generado por los distintos métodos.
+
+**Set de datos**
+![img1](images/dataset2.png)
+
+**Boxplots**
+![img1](images/graph3.png)
