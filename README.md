@@ -31,7 +31,7 @@ Las métricas son obtenidas utilizando cross validation.
 A lo largo del trabajo busqué las fronteras de decisión lineal y cuadrática que generan los clasificadores.
 
 #### Frontera lineal
-![img1](images/graph2.png)
+<img src="images/graph2.png" alt="img12" width="800"/>
 
 ## Clasificación de Diabetes
 
