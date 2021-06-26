@@ -16,10 +16,10 @@ Librerías utilizadas:
 * Seaborn
 * Sci-kit learn
 
-**Set de datos**
+#### Set de datos
 ![img1](images/dataset.png){:height="700px" width="400px"}
 
-**Análisis**
+#### Análisis
 ![img1](images/graph1.png)
 
 ## Clasificación de Flores
@@ -30,7 +30,7 @@ Las métricas son obtenidas utilizando cross validation.
 
 A lo largo del trabajo busqué las fronteras de decisión lineal y cuadrática que generan los clasificadores.
 
-**Frontera lineal**
+#### Frontera lineal
 ![img1](images/graph2.png)
 
 ## Clasificación de Diabetes
@@ -39,8 +39,8 @@ Como parte del curso de Posgrado Aprendizaje Estadístico, implementé varios cl
 
 En particular se compara el espacio de decisión generado por los distintos métodos.
 
-**Set de datos**
+#### Set de datos
 ![img1](images/dataset2.png)
 
-**Boxplots**
+#### Boxplots
 ![img1](images/graph3.png)
