@@ -1,5 +1,7 @@
 # Clasificación
 
+Este repositorio contiene varios proyectos que resuelven problemas de clasificación 
+
 ## Clasificación de Género
 
 Es un proyecto que desarrollé para poder entrenar mis habilidades utilizando algoritmos de clasificación. Dado un conjunto de datos como: gustos musicales o de bebida se intenta clasificar a las personas en hombres o mujeres.
