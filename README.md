@@ -17,7 +17,7 @@ Librerías utilizadas:
 * Sci-kit learn
 
 #### Set de datos
-<img src="images/dataset.png" alt="img1" width="200"/>
+<img src="images/dataset.png" alt="img1" width="400"/>
 
 #### Análisis
 ![img1](images/graph1.png)
