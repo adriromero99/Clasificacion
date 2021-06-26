@@ -16,7 +16,7 @@ Librerías utilizadas:
 * Seaborn
 * Sci-kit learn
 
-#### Set de datos
+#### Muestra del set de datos
 <img src="images/dataset.png" alt="img1" width="800"/>
 
 #### Análisis
@@ -39,7 +39,7 @@ Como parte del curso de Posgrado Aprendizaje Estadístico, implementé varios cl
 
 En particular se compara el espacio de decisión generado por los distintos métodos.
 
-#### Set de datos
+#### Muestra del set de datos
 ![img1](images/dataset2.png)
 
 #### Boxplots
