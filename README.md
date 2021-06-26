@@ -20,4 +20,4 @@ Como parte del curso de Posgrado Aprendizaje Estadístico, desarrollé clasifica
 
 ## Clasificación de Diabetes
 
-Como parte del curso de Posgrado Aprendizaje Estadístico, implementé varios clasificadores para hallar la mejor forma de clasificar a personas en diabéticas o no diabéticas a partir de métricas médicas como el índice de masa corporal, edad y glucosa en sangre. Este trabajo se desarrolló tanto en R como en Python utilizando jupyter notebooks.
+Como parte del curso de Posgrado Aprendizaje Estadístico, implementé varios clasificadores para hallar la mejor forma de clasificar a personas en diabéticas o no diabéticas a partir de métricas médicas como el índice de masa corporal, edad y glucosa en sangre. En particular desarrollé un ensamble: Bagging. Este trabajo se desarrolló tanto en R como en Python utilizando jupyter notebooks.
